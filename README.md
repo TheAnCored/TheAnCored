@@ -2,8 +2,8 @@
 
 My name is Anton. I am a student at the Faculty of Mechanics and Mathematics at Moscow State University. My main area of study is "Fundamental Mechanics". 
 
-## About programming
-I am developing my programming skills in C, C++, Python. When I come across interesting mathematical problems, I try to program them and visualize the result.
+## About hard skills
+I am developing my programming skills in C, C++, Python, ML/DL and DS. When I come across interesting mathematical problems, I try to program them and visualize the result. Also 
 
 ## My competencies:
 
