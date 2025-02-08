@@ -18,6 +18,7 @@ I am developing my programming skills in C, C++, Python, ML/DL and DS. When I co
 ![]( https://img.shields.io/badge/Python-090909?logo=python&style=for-the-badge&logoColor=6997D3)
 ![]( https://img.shields.io/badge/Qt-090909?logo=Qt&style=for-the-badge&logoColor=#3FC74F)
 ![]( https://img.shields.io/badge/Wolfram-090909?logo=wolfram&style=for-the-badge&logoColor=DD1100)
+![scikit-learn](https://img.shields.io/badge/dynamic/json?url=https://pypi.org/pypi/scikit-learn/json&label=scikit-learn&query=$.info.version&color=blue)
 
 ### If you have any questions or suggestions, feel free to contact me!
 
