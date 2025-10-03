@@ -50,8 +50,8 @@
 ## 📫 Contacts
 [![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/the_ancored)  
 [![](https://img.shields.io/badge/VKONTAKTE-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/the_ancored)  
-[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)  
-[![](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)  
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheAnCored)  
+[![](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/theancored)  
 
 ---
 ✨ *"Mixing mathematics, code, and music to create something new."*  
