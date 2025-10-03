@@ -1,23 +1,57 @@
-# Hello everyone!
+# 👋 Hi, I'm Anton  
 
-My name is Anton. I am a student at the Faculty of Mechanics and Mathematics at Moscow State University. My main area of study is "Fundamental Mechanics". 
+🎓 Student at **Moscow State University (MSU)**, Faculty of Mechanics and Mathematics (specialization — *Fundamental Mechanics*).  
+🚀 Passionate about **Machine Learning, Data Science, Product Management**.  
+🎵 Exploring the world of **music production & DJing**.  
 
-## About hard skills
-I am developing my programming skills in C, C++, Python, ML/DL and DS. When I come across interesting mathematical problems, I try to program them and visualize the result. Also 
+---
 
-## My competencies:
+## 🧠 About me
+- Goal-oriented and curious about both **applied mathematics** and **modern technologies**  
+- Solid background in **probability theory, mathematical statistics, linear algebra, analysis**  
+- Love solving problems, building products and visualizing data  
+- Combining science, coding, and creativity  
 
-- Analytical Geometry
-- Linear Algebra
-- Mathematical Analysis
-- Other core mathematical disciplines   
+---
 
-## Programming languages and tools:
-![]( https://img.shields.io/badge/C++-090909?logo=cplusplus&style=for-the-badge&logoColor=6997D3)
-![]( https://img.shields.io/badge/C-090909?logo=c&style=for-the-badge&logoColor=6997D3)
-![]( https://img.shields.io/badge/Python-090909?logo=python&style=for-the-badge&logoColor=6997D3)
+## 💻 Tech stack
 
-### If you have any questions or suggestions, feel free to contact me!
+### Programming Languages
+![](https://img.shields.io/badge/C++-090909?logo=cplusplus&style=for-the-badge&logoColor=6997D3)
+![](https://img.shields.io/badge/C-090909?logo=c&style=for-the-badge&logoColor=6997D3)
+![](https://img.shields.io/badge/Python-090909?logo=python&style=for-the-badge&logoColor=F7CA3E)
 
-[![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/the_ancored) [![](https://img.shields.io/badge/VKONTAKTE-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white
-)](https://vk.com/the_ancored)
+### Python DS/ML Frameworks
+![](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
+![](https://img.shields.io/badge/seaborn-1a1a1a?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![](https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![](https://img.shields.io/badge/statsmodels-1a1a1a?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+
+### Other
+![](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+
+---
+
+## 🎯 Interests
+- Building **data-driven products**  
+- Deepening knowledge in **mathematics & computer science**  
+- Exploring **music production, DJing, beatmaking**  
+- Always searching for new ways to combine **tech + creativity**  
+
+---
+
+## 📫 Contacts
+[![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/the_ancored)  
+[![](https://img.shields.io/badge/VKONTAKTE-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/the_ancored)  
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)  
+[![](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)  
+
+---
+✨ *"Mixing mathematics, code, and music to create something new."*  
