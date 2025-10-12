@@ -17,25 +17,27 @@
 ## 💻 Tech stack
 
 ### Programming Languages
-[![](https://img.shields.io/badge/C++-090909?logo=cplusplus&style=for-the-badge&logoColor=6997D3)](https://isocpp.org/)
-[![](https://img.shields.io/badge/C-090909?logo=c&style=for-the-badge&logoColor=6997D3)](https://www.open-std.org/jtc1/sc22/wg14/)
-[![](https://img.shields.io/badge/Python-090909?logo=python&style=for-the-badge&logoColor=F7CA3E)](https://www.python.org)
+<a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-090909?logo=cplusplus&style=for-the-badge&logoColor=6997D3"></a>
+<a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img src="https://img.shields.io/badge/C-090909?logo=c&style=for-the-badge&logoColor=6997D3"></a>
+<a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-090909?logo=python&style=for-the-badge&logoColor=F7CA3E"></a>
 
 ### Python DS/ML Frameworks
-[![](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-[![](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
-[![](https://img.shields.io/badge/matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)](https://matplotlib.org)
-[![](https://img.shields.io/badge/seaborn-1a1a1a?style=for-the-badge&logo=python&logoColor=white)](https://seaborn.pydata.org)
-[![](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
-[![](https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
-[![](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
-[![](https://img.shields.io/badge/statsmodels-1a1a1a?style=for-the-badge&logo=python&logoColor=white)](https://www.statsmodels.org)
-[![](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)](https://scipy.org)
+<a href="https://pandas.pydata.org" target="_blank"><img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>
+<a href="https://numpy.org" target="_blank"><img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"></a>
+<a href="https://matplotlib.org" target="_blank"><img src="https://img.shields.io/badge/matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white"></a>
+<a href="https://seaborn.pydata.org" target="_blank"><img src="https://img.shields.io/badge/seaborn-1a1a1a?style=for-the-badge&logo=python&logoColor=white"></a>
+<a href="https://scikit-learn.org" target="_blank"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"></a>
+<a href="https://pytorch.org" target="_blank"><img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white"></a>
+<a href="https://streamlit.io" target="_blank"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"></a>
+<a href="https://www.statsmodels.org" target="_blank"><img src="https://img.shields.io/badge/statsmodels-1a1a1a?style=for-the-badge&logo=python&logoColor=white"></a>
+<a href="https://scipy.org" target="_blank"><img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"></a>
 
 ### Other
-[![](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://www.qt.io)
-[![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org)
+<a href="https://www.qt.io" target="_blank"><img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"></a>
+<a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+<a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"></a>
+
+---
 
 ---
 ## 🎯 Interests
@@ -47,10 +49,10 @@
 ---
 
 ## 📫 Contacts
-[![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/the_ancored)  
-[![](https://img.shields.io/badge/VKONTAKTE-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/the_ancored)  
-[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheAnCored)  
-[![](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/theancored)  
+<a href="https://t.me/the_ancored" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://vk.com/the_ancored" target="_blank"><img src="https://img.shields.io/badge/VKONTAKTE-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"></a>
+<a href="https://github.com/TheAnCored" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://linkedin.com/in/theancored" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ---
 ✨ *"Mixing mathematics, code, and music to create something new."*  
