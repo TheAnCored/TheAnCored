@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anton  
+<!-- # 👋 Hi, I'm Anton  
 
 🎓 Student at **Moscow State University (MSU)**, Faculty of Mechanics and Mathematics (specialization — *Fundamental Mechanics*).  
 🚀 Passionate about **Machine Learning, Data Science, Product Management**.  
@@ -35,7 +35,7 @@
 ### Other
 ### <a href="https://www.qt.io" target="_blank"><img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"></a>
 <!-- <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-<a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"></a> -->
+<a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"></a> 
 
 
 ---
@@ -53,4 +53,4 @@
 <a href="https://linkedin.com/in/theancored" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ---
-✨ *"Mixing mathematics, code, and music to create something new."*  
+✨ *"Mixing mathematics, code, and music to create something new."*  -->
