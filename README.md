@@ -2,13 +2,13 @@
 
 🎓 Student at **Moscow State University (MSU)**, Faculty of Mechanics and Mathematics (specialization — *Fundamental Mechanics*).  
 🚀 Passionate about **Machine Learning, Data Science, Product Management**.  
-🎵 Exploring the world of **music production & DJing**.  
+
 
 ---
 
 ## 🧠 About me
 - Goal-oriented and curious about both **applied mathematics** and **modern technologies**  
-- Solid background in **probability theory, mathematical statistics, linear algebra, analysis**  
+- Solid background in **probability theory, mathematical statistics, linear algebra, analysis** and mechanics
 - Love solving problems, building products and visualizing data  
 - Combining science, coding, and creativity  
 
@@ -24,25 +24,24 @@
 ### Python DS/ML Frameworks
 <a href="https://pandas.pydata.org" target="_blank"><img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>
 <a href="https://numpy.org" target="_blank"><img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"></a>
-<a href="https://matplotlib.org" target="_blank"><img src="https://img.shields.io/badge/matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white"></a>
-<a href="https://seaborn.pydata.org" target="_blank"><img src="https://img.shields.io/badge/seaborn-1a1a1a?style=for-the-badge&logo=python&logoColor=white"></a>
+### <a href="https://matplotlib.org" target="_blank"><img src="https://img.shields.io/badge/matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white"></a>
+### <a href="https://seaborn.pydata.org" target="_blank"><img src="https://img.shields.io/badge/seaborn-1a1a1a?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="https://scikit-learn.org" target="_blank"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"></a>
 <a href="https://pytorch.org" target="_blank"><img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white"></a>
-<a href="https://streamlit.io" target="_blank"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"></a>
+### <a href="https://streamlit.io" target="_blank"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"></a>
 <a href="https://www.statsmodels.org" target="_blank"><img src="https://img.shields.io/badge/statsmodels-1a1a1a?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="https://scipy.org" target="_blank"><img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"></a>
 
 ### Other
-<a href="https://www.qt.io" target="_blank"><img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"></a>
-<a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-<a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"></a>
+### <a href="https://www.qt.io" target="_blank"><img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"></a>
+<!-- <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+<a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"></a> -->
 
 
 ---
 ## 🎯 Interests
 - Building **data-driven products**  
 - Deepening knowledge in **mathematics & computer science**  
-- Exploring **music production, DJing, beatmaking**  
 - Always searching for new ways to combine **tech + creativity**  
 
 ---
