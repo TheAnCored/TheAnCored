@@ -13,7 +13,7 @@
 <br>
 
 <a href="https://www.linkedin.com/in/anton-kabanov-704b45349/">
-  <img src="https://img.shields.io/badge/linkedin-YOUR_NAME-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/linkedin-Anton-Kabanov-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:kabanov.toni@gmail.com">
