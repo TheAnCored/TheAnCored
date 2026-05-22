@@ -8,6 +8,10 @@
 
 <br>
 
+<a href="https://www.linkedin.com/in/anton-kabanov-704b45349/">
+  <img src="https://img.shields.io/badge/linkedin-YOUR_NAME-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=700&color=586069&center=true&vCenter=true&width=720&lines=building+ml+systems+for+noisy+real-world+data;working+with+time+series%2C+boosting%2C+validation;interested+in+rag%2C+nlp%2C+and+production+ml" alt="Typing SVG" />
 
 <br><br>
