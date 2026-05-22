@@ -157,22 +157,6 @@ Structured notes and implementations for classical ML, NLP, trees, boosting, met
 
 `python` `numpy` `pandas` `scikit-learn` `matplotlib`
 
----
-
-<div align="center">
-
-### stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=theancored&show_icons=true&hide_border=true&theme=default" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theancored&layout=compact&hide_border=true&theme=default" />
-
-</div>
-
----
-
 <div align="center">
 
 ```text
