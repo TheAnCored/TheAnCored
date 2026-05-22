@@ -163,11 +163,11 @@ Structured notes and implementations for classical ML, NLP, trees, boosting, met
 
 ### stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=TheAnCored&show_icons=true&hide_border=true&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api?username=theancored&show_icons=true&hide_border=true&theme=default" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAnCored&layout=compact&hide_border=true&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theancored&layout=compact&hide_border=true&theme=default" />
 
 </div>
 
