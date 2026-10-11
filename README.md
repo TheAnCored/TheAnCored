@@ -1,171 +1,90 @@
-<div align="center">
+<!-- Anton Kabanov — GitHub profile README. All visuals are static SVGs stored in ./assets/. -->
 
-# Anton Kabanov
+<p align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Anton Kabanov — ML Engineer and Data Scientist. Search ranking, time-series ML, experimentation and reliable evaluation." />
+</p>
 
-### data scientist / ml engineer
+<p align="center">
+  <a href="https://www.linkedin.com/in/anton-kabanov-704b45349/">LinkedIn</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://t.me/the_ancored">Telegram</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:kabanov.toni@gmail.com">Email</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/TheAnCored?tab=repositories">Repositories</a>
+</p>
 
-`industrial time series` · `machine learning` · `mathematics` · `python`
+## Hello, I'm Anton.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=700&color=586069&center=true&vCenter=true&width=720&lines=building+ml+systems+for+noisy+real-world+data;working+with+time+series%2C+boosting%2C+validation;interested+in+rag%2C+nlp%2C+and+production+ml" alt="Typing SVG" />
+I'm a **Machine Learning Engineer with 2+ years of commercial experience** and a mathematical background at **Lomonosov Moscow State University**.
 
-<br><br>
+My work spans **e-commerce search ranking at Yandex** and **industrial machine learning at Aramco Innovations**. I build the less glamorous but essential parts of good ML: dependable datasets, meaningful features, leakage-aware evaluation, reproducible experiments, and models that solve real problems.
 
-<br>
+**What I focus on:** search ranking · tabular ML · time-series forecasting · experiment design · applied deep learning.
 
-<a href="https://www.linkedin.com/in/anton-kabanov-704b45349/">
-  <img src="https://img.shields.io/badge/linkedin-Anton_Kabanov-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
+## Results that matter
 
-<a href="mailto:kabanov.toni@gmail.com">
-  <img src="https://img.shields.io/badge/email-kabanov.toni%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-<a href="https://t.me/viridiculus">
-  <img src="https://img.shields.io/badge/telegram-%40viridiculus-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
-</a>
+<p align="center">
+  <img src="./assets/impact.svg" width="100%" alt="At Aramco Innovations: interval-detection recall improved from 0.11 to 0.68; regression MAPE decreased from approximately 30 percent to 10 percent; automated telemetry processing and labeling for more than 1,000 installations." />
+</p>
 
-</div>
+<sub>Selected results from industrial ML projects at Aramco Innovations. Detection was evaluated on a held-out time window; regression improvements were achieved through signal preprocessing, feature engineering, and validation.</sub>
 
----
+## Selected work
 
-<div align="center">
+### 01. Search ranking & ML experimentation — Yandex
 
-### about
+<p align="center"><img src="./assets/ranking.svg" width="100%" alt="Yandex e-commerce search ranking and experimentation — static portfolio card." /></p>
 
-</div>
+Worked on a late-stage **e-commerce search ranking model** with a large feature set. My work included:
 
-```text 
-Data Scientist with a strong mathematical background.
-I work across the full ML cycle: from messy data and validation design
-to model training, interpretation, and stakeholder-facing delivery.
+- Running **offline experiments**, developing faster ways to test model changes, and preparing a candidate update and its experimentation pipeline for an **online A/B test**.
+- Restoring a shopping-cart data collection pipeline and building **daily data collection** for search-result freshness and relevance.
+- Investigating ranking-quality issues through dataset preparation, labeling, and analysis of problematic search results.
 
-Main focus: industrial telemetry, time-series ML, robust validation,
-feature engineering, gradient boosting, and interpretable ML.
-```
+### 02. Industrial time-series ML — Aramco Innovations
 
----
+<p align="center"><img src="./assets/telemetry.svg" width="100%" alt="Aramco industrial time-series machine learning — static portfolio card." /></p>
 
-<div align="center">
+Built end-to-end ML workflows for **noisy, hourly industrial telemetry**, where data quality and temporal validation were often harder than model selection.
 
-### stack
+- Improved interval-detection **recall from 0.11 to 0.68** on a held-out time window in a heavily imbalanced problem.
+- Cut regression **MAPE from ~30% to ~10%** and improved **R² from 0.71 to 0.86**.
+- Automated quality checks, operating-regime detection, and labeling for **1,000+ installations**.
+- Modeled **5+ year production forecasts**, comparing decline-curve analysis with statistical, boosting, and neural approaches.
 
-</div>
+### 03. Independent ML research
 
-<div align="center">
+<p align="center"><img src="./assets/research.svg" width="100%" alt="Independent quantitative machine learning research — static portfolio card." /></p>
 
-#### core
+Outside commercial work, I explore methods for forecasting and decision-making on financial time series:
 
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/sql-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+| Research area | What I've explored |
+| :--- | :--- |
+| **Macro-aware forecasting** | Reproducing and evaluating ideas from HANET: futures data, macroeconomic release lags, continuous-contract construction, and time-aware backtesting. |
+| **Neural models for markets** | Experiments with spiking neural networks and graph neural networks for volatility and market-direction modeling. |
+| **Market data & statistical arbitrage** | Aggregating Binance/Bybit data into 10-second bars and testing pairs-based signals and trading rules. |
 
-#### machine learning
+<sub>Independent research projects are described here at a high level; their source code is not currently linked. Commercial work is summarized without proprietary code or data.</sub>
 
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/xgboost-FF6600?style=for-the-badge" />
-<img src="https://img.shields.io/badge/lightgbm-02569B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/catboost-FFCC00?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/optuna-4B8BBE?style=for-the-badge" />
-<img src="https://img.shields.io/badge/shap-111111?style=for-the-badge" />
+## Technical toolkit
 
-#### deep learning / nlp
+| | Technologies & methods |
+| :--- | :--- |
+| **Machine learning** | CatBoost, LightGBM, XGBoost, scikit-learn, Optuna, SHAP |
+| **Deep learning** | PyTorch, PyTorch Geometric |
+| **Data & engineering** | Python, SQL, Pandas, NumPy, PySpark, Git, Docker, Airflow |
+| **Statistics & evaluation** | A/B testing, walk-forward validation, SciPy, statsmodels, tsfresh |
 
-<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/pytorch_geometric-3C2179?style=for-the-badge" />
-<img src="https://img.shields.io/badge/rnn-6A5ACD?style=for-the-badge" />
-<img src="https://img.shields.io/badge/gnn-483D8B?style=for-the-badge" />
+## Background
 
-#### data / time series
+**Lomonosov Moscow State University** — Fundamental Mathematics & Mechanics · 2022–2028 (expected graduation)
 
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
-<img src="https://img.shields.io/badge/pyspark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/statsmodels-123456?style=for-the-badge" />
-<img src="https://img.shields.io/badge/prophet-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/tsfresh-008080?style=for-the-badge" />
-<img src="https://img.shields.io/badge/etna-5A4FCF?style=for-the-badge" />
-
-#### apps / mlops / engineering
-
-<img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-<img src="https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-<img src="https://img.shields.io/badge/tibco_spotfire-003A70?style=for-the-badge" />
-
-</div>
+**Previously:** ML Engineer at Yandex (2026) · Data Scientist at Aramco Innovations (2024–2026).
 
 ---
 
-<div align="center">
-
-### selected impact
-
-</div>
-
-```text
-▸ interval detection precision: 0.11 → 0.68
-▸ regression quality: MAPE ~30% → ~10%, R² 0.71 → 0.86
-▸ confidential industrial targets: R² up to 0.90 and 0.81
-▸ automated hourly telemetry labeling for 1,000+ installations
-▸ dataset-wide data quality audit: missing, stuck, invalid regimes
-```
-
----
-
-<div align="center">
-
-### areas
-
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center"><b>ML</b></td>
-    <td align="center"><b>Time Series</b></td>
-    <td align="center"><b>Data Quality</b></td>
-    <td align="center"><b>NLP / RAG</b></td>
-  </tr>
-  <tr>
-    <td align="center">boosting<br>validation<br>metrics</td>
-    <td align="center">forecasting<br>lags / rolling<br>regime changes</td>
-    <td align="center">telemetry<br>missing values<br>signal defects</td>
-    <td align="center">retrieval<br>embeddings<br>evaluation</td>
-  </tr>
-</table>
-
----
-
-<div align="center">
-
-### projects
-
-</div>
-
-> Replace these blocks with real pinned repositories.
-
-#### industrial time-series ml
-End-to-end pipeline for telemetry preprocessing, feature generation, time-based validation, model training, and interpretation.
-
-`python` `pandas` `scikit-learn` `catboost` `lightgbm` `shap` `streamlit`
-
-#### rag / nlp playground
-Experiments with retrieval, BM25, embeddings, vector search, and retrieval evaluation metrics.
-
-`python` `faiss` `bm25` `transformers` `pytorch`
-
-#### ml interview notes
-Structured notes and implementations for classical ML, NLP, trees, boosting, metrics, and validation.
-
-`python` `numpy` `pandas` `scikit-learn` `matplotlib`
-
-<div align="center">
-
-```text
-currently: ml interviews · rag systems · nlp · robust validation · production ml
-```
-
-</div>
-
+<p align="center">
+  <b>Interested in ML engineering, ranking, forecasting, or applied research?</b><br />
+  <a href="mailto:kabanov.toni@gmail.com">Let's talk</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/anton-kabanov-704b45349/">Connect on LinkedIn</a>
+</p>
